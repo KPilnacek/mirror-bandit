@@ -4,6 +4,7 @@ bandit mirror
 Mirror of bandit for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
+
 For bandit: see https://github.com/PyCQA/bandit
 
 ### Using bandit with pre-commit:
