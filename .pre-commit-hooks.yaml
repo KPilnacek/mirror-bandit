@@ -1,0 +1,7 @@
+-   id: bandit
+    name: bandit
+    entry: bandit
+    language: python
+    'types': [python]
+    args: ["-lll"]
+    additional_dependencies: []
